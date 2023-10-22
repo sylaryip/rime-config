@@ -1,0 +1,17 @@
+patch:
+  app_options:
+    com.apple.Terminal: # 终端
+      ascii_mode: true
+      vim_mode: true
+    com.googlecode.iterm2:
+      ascii_mode: true
+      vim_mode: true
+    com.microsoft.VSCode: # Visual Studio Code
+      ascii_mode: false
+      vim_mode: true
+    com.jetbrains.WebStorm:
+      ascii_mode: false
+      vim_mode: true
+    com.jetbrains.goland:
+      ascii_mode: false
+      vim_mode: true
